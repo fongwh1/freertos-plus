@@ -8,3 +8,5 @@ test-romfs.bin
 *~
 build
 output
+tags
+src/selftest.c
